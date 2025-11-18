@@ -7,3 +7,7 @@ Git is a distributed version control system that helps developers track changes,
 
 ## What is GitHub?
 GitHub is an online hosting platform for Git repositories. It allows developers to store, share, and collaborate on projects using Git.
+
+
+### Summary
+Git is used to track changes locally, while GitHub stores those changes online and supports collaboration.
